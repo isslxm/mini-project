@@ -1,0 +1,5 @@
+Car ID: Mercedes-0001
+Car Model: Mercedes Benz EQB SUV
+Year of Manufacture: 2022
+Price: 53000
+Color: Silver

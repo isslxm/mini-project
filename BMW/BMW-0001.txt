@@ -1,0 +1,4 @@
+Car ID: BMW-0001
+Car Model: BMW XM
+Year of Manufacture: 2000
+Price: 30000

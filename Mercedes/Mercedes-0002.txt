@@ -1,0 +1,5 @@
+Car ID: Mercedes-0002
+Car Model: Mercedes Benz EQE Sedan
+Year of Manufacture: 2021
+Price: 74000
+Color: White
